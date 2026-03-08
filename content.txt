@@ -14,3 +14,8 @@
     > Code Reusablility
     > Debugging
     > Easy to colab
+
+5. End to end Project(Chatbook Class)
+    > encapsulation
+    > getter and setter
+    > static method
