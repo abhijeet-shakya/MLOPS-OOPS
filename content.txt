@@ -1,0 +1,16 @@
+1. Class and Object
+    > Class: Blueprint of creating Objetcts
+    > Object : A container of State(Data/Attribute) + Behaviour(Methods)
+
+2. Class has data/Attribute(Data inside an object) and Methods(Function inside an object)
+    > Code walkthrough
+    > attribute get called iteself, methods are called manually
+
+3. Why Python is called OOP?
+   - Everthing in Python is an object(data, structure, data type etc)
+   
+4. Advantages of OOPs:
+    > You can create your own data type.
+    > Code Reusablility
+    > Debugging
+    > Easy to colab
